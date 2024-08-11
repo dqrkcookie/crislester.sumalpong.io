@@ -393,7 +393,7 @@ label,
 #projects article div {
   width: 290px;
   height: 200px;
-  border: 2px solid #ff0000;
+  border: 2px solid #f1f1f1;
   display: inline-block;
   margin: 1em auto 1em auto;
 }
