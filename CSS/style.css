@@ -323,6 +323,7 @@ label,
 #skills {
   background-color: #252525;
   height: 100vh;
+  overflow: hidden;
 }
 
 #skills header {
@@ -349,8 +350,8 @@ label,
 #skills article li {
   border: 2px solid #f1f1f1;
   width: 280px;
-  height: max-content;
-  margin-bottom: 12px;
+  height: 210px;
+  margin: 12px;
 }
 
 #skills article ul li {
